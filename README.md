@@ -4,7 +4,7 @@
 <!-- Saudação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luiz+Gustavo;eu+sou+instrutor+na+instituição+Senac;Be+Welcome!+:%29"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Prodosimo;Be+Welcome!+:%29"/>
   </a>
 </p>
 
