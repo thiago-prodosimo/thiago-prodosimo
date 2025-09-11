@@ -12,7 +12,7 @@
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h2 align="center"> Estatísticas GitHub</h2>
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=thiago-prodosimo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGustavo10&layout=donut&langs_count=7&theme=algolia"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-prodosimo&layout=donut&langs_count=7&theme=algolia"/>
 </div>
 
 <!-- CARD Atividade -->
